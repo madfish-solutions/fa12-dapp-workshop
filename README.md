@@ -3,7 +3,7 @@
 This project was bootstrapped with
 [Create React App](https://github.com/facebook/create-react-app).
 
-It has a few of pre-installed libraries:
+It has a few pre-installed libraries:
 
 - https://chakra-ui.com - for UI
 - https://tezostaquito.io/ - for interacting with Tezos blockchain
